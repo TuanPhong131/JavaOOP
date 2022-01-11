@@ -1,4 +1,4 @@
-package OnThi;
+package OnThi.src;
 
 import java.util.Scanner;
 

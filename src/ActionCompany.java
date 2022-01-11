@@ -1,4 +1,4 @@
-package OnThi;
+package OnThi.src;
 
 public abstract class ActionCompany {
     public abstract void Add();
